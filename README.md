@@ -15,5 +15,3 @@ ml-exercises/
 │   └── README.md
 └── README.md
 ```
-
-Les vrais projets de machine learning (données réelles, problème précis, résultats à présenter) ont chacun leur propre dépôt.
