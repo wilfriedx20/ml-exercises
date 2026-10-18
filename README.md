@@ -8,7 +8,7 @@ Ce dépôt contient l'ensemble de mes exercices et mini-projets sur le machine l
 ## Plan
 
 ```
-ML Exercise/
+ml-exercises/
 ├── classification/
 │   └── README.md
 ├── regression/
