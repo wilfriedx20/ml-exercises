@@ -8,12 +8,10 @@ Ce dépôt contient l'ensemble de mes exercices et mini-projets sur le machine l
 ## Plan
 
 ```
-ML Exercise/
+ml-exercises/
 ├── classification/
 │   └── README.md
 ├── regression/
 │   └── README.md
 └── README.md
 ```
-
-Les vrais projets de machine learning (données réelles, problème précis, résultats à présenter) ont chacun leur propre dépôt.
